@@ -3,7 +3,7 @@ Teste de posuo autonomo no KSP, calculos ainda não complexos, usei apenas para 
 Ele dá um pequeno salto de ~~ 11km de altitude e tenta um pouso com motores no solo.
 Use KSP v 1.5.x
 
-Nível dos tanques:
+Nível dos tanques(Caso não venha configurado, mas deve vir configurado com os níveis corretos. Não se preocupe):
 Primeiro:337.5/xx Combustivel/412.5/xxx Oxidante
 Segundo: 450.0/xx Combustivel / 550.0/xxx Oxidante
 @ Link da nave de testes: 
