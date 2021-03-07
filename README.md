@@ -10,3 +10,5 @@ Segundo: 450.0/xx Combustivel / 550.0/xxx Oxidante
 
 Lembre-se que esse código foi usadada apenas para testes, essa é a minha primeira vez fazendo códigos para o Kerbal Space Program.
 use do código apenas em caso de curiosidade ou caso queira o aprimorar e usar de base para fazer outro. Seu uso é livre.
+
+@ Coloque o som "contagem.wav" no seu disco c !!
