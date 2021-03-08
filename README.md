@@ -1,5 +1,5 @@
-# Pouso_Automo_KSP
-Teste de posuo autonomo no KSP, calculos ainda não complexos, usei apenas para fins de testes, quando tiver tempo vou fazer mais aprimorado xD
+# Pouso_Autonomo_KSP
+Teste de pouso autonomo no KSP, calculos ainda não complexos, usei apenas para fins de testes, quando tiver tempo vou fazer mais aprimorado xD
 Ele dá um pequeno salto de ~~ 11km de altitude e tenta um pouso com motores no solo.
 Use KSP v 1.5.x
 
